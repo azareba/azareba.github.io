@@ -20,4 +20,7 @@ Did you know that the ***Shrek*** *Film Series* is loosely based on the 1990 pic
 ![the book](shrekstepik.jpg "cover of the book")
 
 
+|Shrek|Donkey|Lord Farquaad|
+|:---:|:---:|:---:|
+
 [^1]:(It's my fav one)
