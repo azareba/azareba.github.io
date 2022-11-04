@@ -12,12 +12,12 @@ In the plot, Prince Charming is plotting to overthrow Shrek and Fiona, who have 
 
 Artie:
 
-![Artie](artie2stepik.jpg "artie")
+![Artie](pictures/artie2stepik.jpg "artie")
 
 ### *Fun fact*
 Did you know that the ***Shrek*** *Film Series* is loosely based on the 1990 picture book **[Shrek!](https://en.wikipedia.org/wiki/Shrek! "wiki will tell u all ab it")**
 
-![the book](shrekstepik.jpg "cover of the book")
+![the book](pictures/shrekstepik.jpg "cover of the book")
 
 
 
